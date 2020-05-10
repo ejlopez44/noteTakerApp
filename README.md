@@ -1,7 +1,7 @@
 
 # Note Taker App
 
-[Landing-page-image](https://github.com/ejlopez44/noteTakerApp/blob/master/assets/main.png?raw=true)
+![Landing-page-image](https://github.com/ejlopez44/noteTakerApp/blob/master/assets/main.png?raw=true)
 
 ## Description
 
