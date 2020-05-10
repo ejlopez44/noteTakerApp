@@ -5,7 +5,7 @@
 
 ## Description
 
-You can view the deployed application here at: https://fathomless-waters-95379.herokuapp.com
+You can view a deployed example application at: https://fathomless-waters-95379.herokuapp.com
 
 This app is an exercise in GET, POST and DELETE methods to a backend server. Each method has routes that create functionality on the Note Application. Technologies used were: NodeJS, ExpressJS and other 3rd party dependencies such as UUID.
 
@@ -28,26 +28,22 @@ This app is an exercise in GET, POST and DELETE methods to a backend server. Eac
 To install necessary dependencies, run the following command:
 ```
 npm install
+
 ```
 
 ## Usage
 
-You can open the webpage and create, save or delete notes.
+To run locally;
+
+```
+npm start
+
+```
+You can open the locally hosted port webpage and create, save or delete notes.
 
 ## License
 
 This project is protected under the ![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
-
-## Contributing
-
-No contributions at this time.
-
-## Tests
-
-To run tests, run the following command:
-```
-There are no tests associated with this application
-```
 
 ## Questions
 
