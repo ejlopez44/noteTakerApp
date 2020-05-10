@@ -28,7 +28,6 @@ This app is an exercise in GET, POST and DELETE methods to a backend server. Eac
 To install necessary dependencies, run the following command:
 ```
 npm install
-
 ```
 
 ## Usage
@@ -37,13 +36,12 @@ To run locally;
 
 ```
 npm start
-
 ```
 You can open the locally hosted port webpage and create, save or delete notes.
 
 ## License
 
-This project is protected under the ![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Questions
 
